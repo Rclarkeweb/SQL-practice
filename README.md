@@ -2,6 +2,7 @@
 
 ## List of files:
 - [Cludeo](https://github.com/Rclarkeweb/SQL-practice/blob/main/Cluedo.sql)
+- [Zoo](https://github.com/Rclarkeweb/SQL-practice/blob/main/zoo.sql)
 
 ### Language
 
